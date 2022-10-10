@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - :zap: In my free time, I put together custom PCs, mod games, and pamper my chihuahua.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Escamilla_Ochoa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-escamilla-ochoa)
-<div>
+<div id="skills" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,5 +49,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AEO-esc&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEO-esc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AEO-esc&theme=dark"/></a>
+</p>
+
+
