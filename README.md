@@ -58,11 +58,7 @@ Here are some ideas to get you started:
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEO-esc&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
 
-## Contact me
-
-<a href="mailto:abraham.escamilla@live.com-">
-<img alt="eMail" src="https://img.shields.io/badge/abraham.escamilla@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+![Snake animation](https://github.com/AEO-esc/AEO-esc/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">
 My Current Workstation Specification </h2>
@@ -76,6 +72,17 @@ My Current Workstation Specification </h2>
  <br>
 ![Cooling](https://img.shields.io/badge/Cooling-NZXT%20Kraken%20360MM-purple)
 
+
+</div>
+
+<div>
+
+  ## 📫 &nbsp;My Contacts
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Escamilla_Ochoa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-escamilla-ochoa)
+  [![Gmail Badge](https://img.shields.io/badge/-abraham.escamilla.ochoa@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:abraham.escamilla.ochoa@gmail.com)&nbsp;
+   [![Email Badge](https://img.shields.io/badge/-abraham.escamilla@live.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:abraham.escamilla@live.com)&nbsp;
 
 </div>
 
