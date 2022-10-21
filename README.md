@@ -50,7 +50,33 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AEO-esc&theme=dark"/></a>
+      <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=AEO-esc&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br>
 </p>
+
+<p align="center">
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEO-esc&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</p>
+
+## Contact me
+
+<a href="mailto:abraham.escamilla@live.com-">
+<img alt="eMail" src="https://img.shields.io/badge/abraham.escamilla@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<h2 align="center">
+My Current Workstation Specification </h2>
+
+<div align="center">
+	
+
+![CPU](https://img.shields.io/badge/CPU-Intel%208700K-blue)
+<br> 	
+![GPU](https://img.shields.io/badge/GPU-RTX%203080-green) 
+ <br>
+![Cooling](https://img.shields.io/badge/Cooling-NZXT%20Kraken%20360MM-purple)
+
+
+</div>
 
 
