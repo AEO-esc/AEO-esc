@@ -55,11 +55,11 @@ My Current Workstation Specification </h2>
 <div align="center">
 	
 
-![CPU](https://img.shields.io/badge/CPU-Intel%208700K-blue)
+![CPU](https://img.shields.io/badge/CPU-AMD%207950X3D-red)
 <br> 	
 ![GPU](https://img.shields.io/badge/GPU-RTX%203080-green) 
  <br>
-![Cooling](https://img.shields.io/badge/Cooling-NZXT%20Kraken%20360MM-purple)
+![Cooling](https://img.shields.io/badge/Cooling-Corsair%20H150i%20360MM-yellow)
 
 
 </div>
