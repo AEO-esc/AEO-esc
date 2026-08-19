@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- :telescope: I’m working as a Software Analyst and contributing to frontend and backend for building resilient systems.
-
-- :seedling: Exploring Microservices Architecture.
-
-- :zap: In my free time, I put together custom PCs, mod games, and pamper my chihuahua.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Escamilla_Ochoa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-escamilla-ochoa)
 <div id="skills" align="center">
